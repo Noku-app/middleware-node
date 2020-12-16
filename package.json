@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Noku-app/middleware-node/issues"
   },
-  "homepage": "https://github.com/Noku-app/middleware-node#readme"
+  "homepage": "https://github.com/Noku-app/middleware-node#readme",
+  "dependencies": {
+    "@noku-app/nokubase": "^1.0.11"
+  }
 }
